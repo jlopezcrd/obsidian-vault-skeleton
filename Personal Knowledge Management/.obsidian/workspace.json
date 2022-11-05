@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "11c95e04a796eedb",
+        "id": "703257101964a639",
         "type": "tabs",
         "children": [
           {
-            "id": "787b6b8c2ea060cd",
+            "id": "d688f25b37207dea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decrypt.sh.md",
-                "mode": "source",
+                "file": "004 🗒️ Personal Notes/publish.sh.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decrypt.sh.md",
+                "file": "004 🗒️ Personal Notes/publish.sh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "decrypt.sh.md"
+                "file": "004 🗒️ Personal Notes/publish.sh.md"
               }
             }
           }
@@ -116,11 +116,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1b6743cfdfc1a9dc",
+  "active": "d688f25b37207dea",
   "lastOpenFiles": [
-    "encrypt.sh.md",
-    "publish.sh.md",
-    "decrypt.sh.md",
+    "004 🗒️ Personal Notes/encrypt.sh.md",
+    "004 🗒️ Personal Notes/decrypt.sh.md",
+    "004 🗒️ Personal Notes/publish.sh.md",
     "README.md",
     "START HERE.md"
   ]
