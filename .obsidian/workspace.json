@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "d823dfc2940fc9b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "11c95e04a796eedb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "787b6b8c2ea060cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "decrypt.sh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22ea93b92711917c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fa02eea1c58c07b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b6743cfdfc1a9dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac8b4e27064cb9f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42cdddbc2ec4f117",
+    "type": "split",
+    "children": [
+      {
+        "id": "0697b5f82e6a76a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a45908432842c4fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "decrypt.sh.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49f788971ecba6e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bed12ef52e186cbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "decrypt.sh.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1b6743cfdfc1a9dc",
+  "lastOpenFiles": [
+    "encrypt.sh.md",
+    "publish.sh.md",
+    "decrypt.sh.md",
+    "README.md",
+    "START HERE.md"
+  ]
+}

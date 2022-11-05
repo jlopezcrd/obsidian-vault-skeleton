@@ -1,0 +1,25 @@
+{
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "101 📎 Attachments",
+  "legacyEditor": false,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "es"
+  ],
+  "spellcheck": true,
+  "newFileLocation": "folder",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileFolderPath": "001 📥 Inbox"
+}

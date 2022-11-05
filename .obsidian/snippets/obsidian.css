@@ -1,0 +1,12 @@
+.full-width .markdown-preview-section {
+    max-width: 100% !important;
+}
+
+.markdown-source-view.mod-cm6 .list-bullet {
+    visibility: initial !important;
+}
+
+.markdown-source-view.mod-cm6 .list-bullet:after {
+    visibility: none !important;
+    content: '' !important;
+}
