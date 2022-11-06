@@ -1,4 +1,4 @@
 ---
 tags: "#type/personal/receipt"
-starred: true
+pinned: true
 ---

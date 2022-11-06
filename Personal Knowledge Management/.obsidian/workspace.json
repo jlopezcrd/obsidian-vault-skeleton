@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce9391ca066f7342",
+        "id": "6bcf1e54ed73a9e5",
         "type": "tabs",
         "children": [
           {
-            "id": "05373482ae5a3919",
+            "id": "c3db44975d61e1d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,24 +109,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "05373482ae5a3919",
+  "active": "c3db44975d61e1d3",
   "lastOpenFiles": [
-    "Home Page.md",
-    "001 📥 Inbox/Home.md",
-    "002 💼 Projects/Project 1/Index Project 1.md",
-    "002 💼 Projects/Project 6/Index Project 6.md",
-    "002 💼 Projects/Project 5/Index Project 5.md",
-    "002 💼 Projects/Project 4/Index Project 4.md",
     "002 💼 Projects/Project 3/Index Project 3.md",
+    "Home Page.md",
     "002 💼 Projects/Project 2/Index Project 2.md",
+    "002 💼 Projects/Project 1/Index Project 1.md",
+    "004 🗒️ Personal Notes/Roast Chicken.md",
+    "004 🗒️ Personal Notes/publish.sh.md",
+    "004 🗒️ Personal Notes/Index Personal.md",
+    "004 🗒️ Personal Notes/encrypt.sh.md",
     "004 🗒️ Personal Notes/decrypt.sh.md",
-    "004 🗒️ Personal Notes/publish.sh.md"
+    "003 📅 Daily Notes/Index Daily.md"
   ]
 }
