@@ -1,6 +1,6 @@
 {
   "strictLineBreaks": true,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "foldHeading": true,
   "foldIndent": true,
   "defaultViewMode": "preview",

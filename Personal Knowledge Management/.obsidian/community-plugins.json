@@ -4,5 +4,7 @@
   "dataview",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-emoji-toolbar",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-banners",
+  "homepage"
 ]

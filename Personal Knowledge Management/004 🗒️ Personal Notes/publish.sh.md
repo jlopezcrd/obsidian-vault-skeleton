@@ -1,3 +1,7 @@
+---
+tags: "#type/personal"
+---
+
 ```bash
 #!/bin/bash
 
