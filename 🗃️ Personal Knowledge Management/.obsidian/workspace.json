@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6bcf1e54ed73a9e5",
+        "id": "20418729c0bd9b80",
         "type": "tabs",
         "children": [
           {
-            "id": "c3db44975d61e1d3",
+            "id": "ab97255bff9adf29",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -114,9 +114,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "c3db44975d61e1d3",
+  "active": "ab97255bff9adf29",
   "lastOpenFiles": [
     "002 💼 Projects/Project 3/Index Project 3.md",
     "Home Page.md",
